@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Kaveh Hassani"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "AI Research Scientist @ Meta AI & Lecturer @ University of Toronto"
   location         : "Toronto, Canada"
-  employer         : "Red Brick University"
+  employer         : "Meta Inc."
   uri              : # URL
   email            : "none@example.org" 
 
