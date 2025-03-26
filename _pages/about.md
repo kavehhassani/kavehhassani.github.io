@@ -16,4 +16,4 @@ redirect_from:
 <br>
 <br>
 <h1>Biography</h1>
-Hello, and welcome to my home on the web! I’m Kaveh, an AI Research Scientist at Meta and a Machine Learning Lecturer at the University of Toronto. 
+ I am currently an AI Research Scientist at <a href="https://ai.meta.com/">Meta</a> and a Machine Learning Lecturer at the <a href="https://www.utoronto.ca/">University of Toronto</a>. Prioir to that I was a Principal AI Research Scientist and Research Manager at <a href="https://www.research.autodesk.com/research-areas/science/ai-lab/">Autodesk AI Lab</a>.
