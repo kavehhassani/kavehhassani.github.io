@@ -23,9 +23,9 @@ repository               : "kavehhassani/kavehhassani.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Kaveh Hassani"
+  name             : "Kaveh Hassani, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "AI Research Scientist <br> ML Lecturer"
+  bio              : "AI Research Scientist"
   location         : "Toronto, Canada"
   employer         : "Meta"
   uri              : # URL
