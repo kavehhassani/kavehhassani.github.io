@@ -2,6 +2,7 @@
    SINGLE PAGE/POST
    ========================================================================== */
 
+/* In _sass/layout/_page.scss */
 #main {
   @include container;
   @include clearfix;
@@ -49,7 +50,6 @@
 }
 
 .page__content {
-
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid var(--global-border-color);
@@ -63,7 +63,7 @@
   p {
     margin: 0 0 $indent-var;
 
-    /* sibling indentation*/
+    /* sibling indentation */
     @if $paragraph-indent == true {
       & + p {
         text-indent: $indent-var;
