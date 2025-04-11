@@ -9,46 +9,40 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %} -->
 
-<head>
-  <style>
-    .publication-table {
-      width: 100%;
-      border-collapse: collapse;
-    }
-    
-    .publication-image {
-      max-width: 250px;
-      width: 100%;
-      height: auto;
-      display: block;
-      margin: 0 auto;
-    }
+<style>
+  .publication-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .publication-image {
+    width: 250px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
 
-    .publication-cell {
-      padding: 10px;
-      vertical-align: top;
-      text-align: left;
-    }
-
-    .image-cell {
-      text-align: center;
-    }
-  </style>
-</head>
+  .publication-content {
+    font-size: inherit;
+    line-height: inherit;
+  }
+</style>
 
 <table class="publication-table">
   <tr>
-    <td class="publication-cell image-cell" width="25%">
+    <td width="25%" style="text-align: center; vertical-align: top;">
       <img class="publication-image" src="/images/gqt.png" alt="Paper teaser">
     </td>
-    <td class="publication-cell" width="75%">
-      <p>
-        <b><a target="_blank" href="https://arxiv.org/abs/2410.13798">Learning Graph Quantized Tokenizers</a></b>
-        <br>
-        Limei Wang, <strong>Kaveh Hassani</strong>, Si Zhang, Dongqi Fu, Baichuan Yuan, Weilin Cong, Zhigang Hua, Hao Wu, Ning Yao, Bo Long
-        <br>
-        <i>International Conference on Learning Representations (ICLR) 2025</i>
-      </p>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a target="_blank" href="https://arxiv.org/abs/2410.13798">Learning Graph Quantized Tokenizers</a></b>
+          <br>
+          Limei Wang, <strong>Kaveh Hassani</strong>, Si Zhang, Dongqi Fu, Baichuan Yuan, Weilin Cong, Zhigang Hua, Hao Wu, Ning Yao, Bo Long
+          <br>
+          <i>International Conference on Learning Representations (ICLR) 2025</i>
+        </p>
+      </div>
     </td>
   </tr>
 </table>
