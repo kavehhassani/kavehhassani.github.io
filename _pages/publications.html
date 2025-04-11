@@ -11,36 +11,43 @@ author_profile: true
 
 <head>
   <style>
-    #teaser {
-      max-width: 100%;
+    .publication-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 20px;
+    }
+    
+    .publication-image {
+      max-width: 250px;
+      width: 100%;
       height: auto;
       display: block;
       margin: 0 auto;
     }
 
-    #piggyback td {
-      text-align: center;
+    .publication-cell {
+      padding: 10px;
       vertical-align: top;
     }
   </style>
 </head>
 
-
-<tr id="piggyback">
-  <td width="25%" valign="top" style="text-align: center;">
-    <img id="teaser" src="/images/gqt.png" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-  </td>
-  <td width="75%" valign="top">
-    <p>
-      <b><a target="_blank" href="https://arxiv.org/abs/2410.13798">Learning Graph Quantized Tokenizers</a></b>
-      <br>
-      Limei Wang, <strong>Kaveh Hassani</strong>, Si Zhang, Dongqi Fu, Baichuan Yuan, Weilin Cong, Zhigang Hua, Hao Wu, Ning Yao, Bo Long
-      <br>
-      <i>International Conference on Learning Representations (ICLR) 2025</i>
-      <br>
-    </p>
-  </td>
-</tr>
+<table class="publication-table">
+  <tr>
+    <td class="publication-cell" width="25%">
+      <img class="publication-image" src="/images/gqt.png" alt="Paper teaser">
+    </td>
+    <td class="publication-cell" width="75%">
+      <p>
+        <b><a target="_blank" href="https://arxiv.org/abs/2410.13798">Learning Graph Quantized Tokenizers</a></b>
+        <br>
+        Limei Wang, <strong>Kaveh Hassani</strong>, Si Zhang, Dongqi Fu, Baichuan Yuan, Weilin Cong, Zhigang Hua, Hao Wu, Ning Yao, Bo Long
+        <br>
+        <i>International Conference on Learning Representations (ICLR) 2025</i>
+      </p>
+    </td>
+  </tr>
+</table>
 <!-- {% include base_path %} -->
 
 <!-- New style rendering if publication categories are defined -->
