@@ -8,3 +8,659 @@ redirect_from:
 
 <h1>About Me</h1>
 I am currently an AI Research Scientist at <a href="https://ai.meta.com/">Meta GenAI</a>, where I focus on LLMs and Agents. I am also a Machine Learning Lecturer at the <a href="https://www.utoronto.ca/">University of Toronto</a>. Before joining Meta GenAI, I was an AI Research Scientist at Ranking AI Research at Meta working on large-scale graph and sequence learning for monetization. Prior to that, I held the position of Principal AI Research Scientist and Research Manager at the <a href="https://www.research.autodesk.com/research-areas/science/ai-lab/">Autodesk AI Lab</a>. I earned my PhD in Electrical and Computer Engineering from the <a href="https://www.uottawa.ca/">University of Ottawa</a>, with a focus on deep learning for common-sense reasoning in 3D environments. My research encompasses a broad range of deep learning areas, including Generative Learning, Multimodal Learning, Self-Supervised Learning, and Geometric Deep Learning. Currently, my research is focused on Large-Language Models (LLMs), Vision-Language Models (VLMs) and Agents. My reseach has been published in top-tier AI venues including NeurIPS, ICLR, ICML, ICCV, and AAAI. Throughout my career, I have had the pleasure of collaborating with several institutions, including NASA, Stanford University, Vector Institute, and the University of British Columbia.
+
+
+<style>
+  .publication-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .image-cell {
+    width: 25%;
+    text-align: center;
+    vertical-align: middle;
+    padding: 10px;
+  }
+
+  .publication-image {
+    width: 100%;
+    max-width: 250px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .publication-content {
+    font-size: 16px !important;
+    line-height: 1.5 !important;
+  }
+
+  .publication-content p {
+    font-size: 16px !important;
+  }
+
+  .paper-title {
+    font-size: 18px !important;
+  }
+
+  .author-list {
+    font-size: 16px !important;
+  }
+
+  .conference-name {
+    font-size: 16px !important;
+  }
+</style>
+<h1>Publications</h1>
+<table class="publication-table">
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/gqt.png" target="_blank">
+        <img class="publication-image" src="/images/gqt.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://Arxiv.org/abs/2410.13798">Learning Graph Quantized Tokenizers</a></b>
+          <br>
+          <span class="author-list">Limei Wang, <strong>Kaveh Hassani</strong>, Si Zhang, Dongqi Fu, Baichuan Yuan, Weilin Cong, Zhigang Hua, Hao Wu, Ning Yao, Bo Long</span>
+          <br>
+          <span class="conference-name"><u>International Conference on Learning Representations (ICLR), 2025</u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/mender.png" target="_blank">
+        <img class="publication-image" src="/images/mender.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://Arxiv.org/abs/2412.08604">Preference Discerning with LLM-Enhanced Generative Retrieval</a></b>
+          <br>
+          <span class="author-list">Fabian Paischer, Liu Yang, Linfeng Liu, Shuai Shao, <strong>Kaveh Hassani</strong>, Jiacheng Li, Ricky Chen, Zhang Gabriel Li, Xialo Gao, Wei Shao, Xue Feng, Nima Noorshams, Sem Park, Bo Long, Hamid Eghbalzadeh</span>
+          <br>
+          <span class="conference-name"><u>Arxiv Preprint, 2024</u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/liger.png" target="_blank">
+        <img class="publication-image" src="/images/liger.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://Arxiv.org/abs/2412.08604">Unifying Generative and Dense Retrieval for Sequential Recommendation</a></b>
+          <br>
+          <span class="author-list">Liu Yang, Fabian Paischer, <strong>Kaveh Hassani</strong>, Jiacheng Li, Shuai Shao, Zhang Gabriel Li, Yun He, Xue Feng, Nima Noorshams, Sem Park, Bo Long, Robert D Nowak, Xiaoli Gao, Hamid Eghbalzadeh</span>
+          <br>
+          <span class="conference-name"><u>Arxiv Preprint, 2024</u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/auglm.png" target="_blank">
+        <img class="publication-image" src="/images/auglm.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://Arxiv.org/abs/2410.02296">How to Make LLMs Strong Node Classifiers?</a></b>
+          <br>
+          <span class="author-list">Zhe Xu, <strong>Kaveh Hassani</strong>, Si Zhang, Hanqing Zeng, Michihiro Yasunaga, Limei Wang, Dongqi Fu, Ning Yao, Bo Long, Hanghang Tong</span>
+          <br>
+          <span class="conference-name"><u>Arxiv Preprint, 2024</u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/rankit.png" target="_blank">
+        <img class="publication-image" src="/images/rankit.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://Arxiv.org/abs/2311.08430">Rankitect: Ranking Architecture Search Battling World-class Engineers at Meta Scale</a></b>
+          <br>
+          <span class="author-list">Wei Wen, Kuang-Hung Liu, Igor Fedorov, Xin Zhang, Hang Yin, Weiwei Chu, <strong>Kaveh Hassani</strong>, Mengying Sun, Jiang Liu, Xu Wang, Lin Jiang, Yuxin Chen, Buyun Zhang, Xi Liu, Dehua Cheng, Zhengxing Chen, Guang Zhao, Fangqiu Han, Jiyan Yang, Yuchen Hao, Liang Xiong, Wen-Yen Chen</span>
+          <br>
+          <span class="conference-name"><u>Proceedings of the ACM Web Conference (WWW), 2024</u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/stale.png" target="_blank">
+        <img class="publication-image" src="/images/stale.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://openreview.net/forum?id=H7z1gHsaZ0">Staleness-Based Subgraph Sampling for Large-Scale GNNs Training</a></b>
+          <br>
+          <span class="author-list">Limei Wang, Si Zhang, Hanqing Zeng, Hao Wu, Zhigang Hua, <strong>Kaveh Hassani</strong>, Andrey Malevich, Bo Long, Shuiwang Ji</span>
+          <br>
+          <span class="conference-name"><u>Arxiv Preprint, 2024</u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/graphgen.png" target="_blank">
+        <img class="publication-image" src="/images/graphgen.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://Arxiv.org/abs/2206.06234">Evaluating Graph Generative Models with Contrastively Learned Features</a></b>
+          <br>
+          <span class="author-list">Hamed Shirzad, <strong>Kaveh Hassani</strong>, Danica J Sutherland</span>
+          <br>
+          <span class="conference-name"><u> Neural Information Processing Systems (NeurIPS), 2022</u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/material.png" target="_blank">
+        <img class="publication-image" src="/images/material.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://Arxiv.org/abs/2209.12793">Material Prediction for Design Automation Using Graph Representation Learning</a></b>
+          <br>
+          <span class="author-list">Shijie Bian, Daniele Grandi, <strong>Kaveh Hassani</strong>, Elliot Sadler, Bodia Borijin, Axel Fernandes, Andrew Wang, Thomas Lu, Richard Otis, Nhut Ho, Bingbing Li</span>
+          <br>
+          <span class="conference-name"><u> Design Automation Conference, 2022</u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/metaglr.png" target="_blank">
+        <img class="publication-image" src="/images/metaglr.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://Arxiv.org/abs/2201.08265">Cross-Domain Few-Shot Graph Classification</a></b>
+          <br>
+          <span class="author-list"><strong>Kaveh Hassani</strong></span>
+          <br>
+          <span class="conference-name"><u> AAAI Conference on Artificial Intelligence, 2022</u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/component.png" target="_blank">
+        <img class="publication-image" src="/images/component.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://Arxiv.org/abs/2107.07042">Classifying Component Function in Product Assemblies With Graph Neural Networks</a></b>
+          <br>
+          <span class="author-list">Vincenzo Ferrero, Bryony DuPont, <strong>Kaveh Hassani</strong>, Daniele Grandi</span>
+          <br>
+          <span class="conference-name"><u> Journal of Mechanical Design, 2022</u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/lg2ar.png" target="_blank">
+        <img class="publication-image" src="/images/lg2ar.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://Arxiv.org/abs/2201.09830">Learning Graph Augmentations to Learn Graph Representations </a></b>
+          <br>
+          <span class="author-list"><strong>Kaveh Hassani</strong>, Amir Hosein Khasahmadi</span>
+          <br>
+          <span class="conference-name"><u> Arxiv Preprint, 2022</u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/mvgrl.png" target="_blank">
+        <img class="publication-image" src="/images/mvgrl.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://Arxiv.org/abs/2006.05582">Contrastive Multi-View Representation Learning on Graphs </a></b>
+          <br>
+          <span class="author-list"><strong>Kaveh Hassani</strong>, Amir Hosein Khasahmadi</span>
+          <br>
+          <span class="conference-name"><u> International Conference on Machine Learning (ICML), 2020</u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/pointmask.png" target="_blank">
+        <img class="publication-image" src="/images/pointmask.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://Arxiv.org/abs/2007.04525">PointMask: Towards Interpretable and Bias-Resilient Point Cloud Processing </a></b>
+          <br>
+          <span class="author-list">Saeid Asgari Taghanaki, <strong>Kaveh Hassani</strong>, Pradeep Kumar Jayaraman, Amir Hosein Khasahmadi, Tonya Custis</span>
+          <br>
+          <span class="conference-name"><u> International Conference on Machine Learning (ICML) Workshop on Human Interpretability in Machine Learning, 2020</u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/memgnn.png" target="_blank">
+        <img class="publication-image" src="/images/memgnn.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://openreview.net/forum?id=r1laNeBYPB"> Memory-Based Graph Networks </a></b>
+          <br>
+          <span class="author-list">Amir Hosein Khasahmadi, <strong>Kaveh Hassani</strong>, Parsa Moradi, Leo Lee, Quaid Morris</span>
+          <br>
+          <span class="conference-name"><u> International Conference on Learning Representations (ICLR), 2020</u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/relational.png" target="_blank">
+        <img class="publication-image" src="/images/relational.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://Arxiv.org/abs/1910.08249">  Relational Graph Representation Learning for Open-Domain Question Answering </a></b>
+          <br>
+          <span class="author-list">Salvatore Vivona, <strong>Kaveh Hassani</strong> </span>
+          <br>
+          <span class="conference-name"><u>  Neural Information Processing Systems (NeurIPS) Workshop on Graph Representation Learning, 2019</u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/iccv.png" target="_blank">
+        <img class="publication-image" src="/images/iccv.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://Arxiv.org/abs/1910.08207"> Unsupervised Multi-Task Feature Learning on Point Clouds </a></b>
+          <br>
+          <span class="author-list"><strong>Kaveh Hassani</strong>, Mike Haley </span>
+          <br>
+          <span class="conference-name"><u> International Conference on Computer Vision (ICCV), 2019 </u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/spatial.png" target="_blank">
+        <img class="publication-image" src="/images/spatial.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://ojs.aaai.org/index.php/AAAI/article/view/10973"> Disambiguating Spatial Prepositions Using Deep Convolutional Networks </a></b>
+          <br>
+          <span class="author-list"><strong>Kaveh Hassani</strong>, Won-Sook Lee </span>
+          <br>
+          <span class="conference-name"><u> AAAI Conference on Artificial Intelligence, 2017 </u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/theis.png" target="_blank">
+        <img class="publication-image" src="/images/theis.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://ruor.uottawa.ca/items/6dce814d-b618-4094-aab0-1ebd8517bfd5"> Commonsense Knowledge for 3D Modeling: A Machine Learning Approach </a></b>
+          <br>
+          <span class="author-list"><strong>Kaveh Hassani</strong></span>
+          <br>
+          <span class="conference-name"><u> PhD Thesis, 2017 </u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/gmm.png" target="_blank">
+        <img class="publication-image" src="/images/gmm.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://link.springer.com/chapter/10.1007/978-3-319-57351-9_23"> Learning Physical Properties of Objects Using Gaussian Mixture Models </a></b>
+          <br>
+          <span class="author-list"><strong>Kaveh Hassani</strong>, Won-Sook Lee</span>
+          <br>
+          <span class="conference-name"><u> Canadian Conference on Artificial Intelligence, 2017 </u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/survey.png" target="_blank">
+        <img class="publication-image" src="/images/survey.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://dl.acm.org/doi/10.1145/2932710"> Visualizing Natural Language Descriptions: A Survey </a></b>
+          <br>
+          <span class="author-list"><strong>Kaveh Hassani</strong>, Won-Sook Lee</span>
+          <br>
+          <span class="conference-name"><u> ACM Computing Surveys, 2016 </u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/bio.png" target="_blank">
+        <img class="publication-image" src="/images/bio.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://www.sciencedirect.com/science/article/pii/S0957417416301087"> Simulating Collective Intelligence of Bio-Inspired Competing Agents </a></b>
+          <br>
+          <span class="author-list">Aliakbar Asgari, <strong>Kaveh Hassani</strong>, Won-Sook Lee</span>
+          <br>
+          <span class="conference-name"><u> Expert Systems with Applications, 2016 </u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/multiobj.png" target="_blank">
+        <img class="publication-image" src="/images/multiobj.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://www.sciencedirect.com/science/article/pii/S1568494615008030"> Multi-Objective Design of State Feedback Controllers Using Reinforced Particle Swarm Optimization </a></b>
+          <br>
+          <span class="author-list"><strong>Kaveh Hassani</strong>, Won-Sook Lee</span>
+          <br>
+          <span class="conference-name"><u> Applied Soft Computing, 2016 </u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/migrating.png" target="_blank">
+        <img class="publication-image" src="/images/migrating.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://www.igi-global.com/chapter/a-universal-architecture-for-migrating-cognitive-agents/155011"> A Universal Architecture for Migrating Cognitive Agents: A Case Study on Automatic Animation Generation </a></b>
+          <br>
+          <span class="author-list"><strong>Kaveh Hassani</strong>, Won-Sook Lee</span>
+          <br>
+          <span class="conference-name"><u> Integrating Cognitive Architectures into Virtual Character Design (Book Chapter), 2016 </u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/adaptive.png" target="_blank">
+        <img class="publication-image" src="/images/adaptive.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://ieeexplore.ieee.org/document/7368804"> Adaptive Animation Generation Using Web Content Mining </a></b>
+          <br>
+          <span class="author-list"><strong>Kaveh Hassani</strong>, Won-Sook Lee</span>
+          <br>
+          <span class="conference-name"><u> IEEE International Conference on Evolving and Adaptive Intelligent Systems (EAIS), 2015 </u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/competing.png" target="_blank">
+        <img class="publication-image" src="/images/competing.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://ieeexplore.ieee.org/document/7368805"> A Case Study on Collective Intelligence Based on Energy Flow </a></b>
+          <br>
+          <span class="author-list"><strong>Kaveh Hassani</strong>, Aliakbar Asgari, Won-Sook Lee</span>
+          <br>
+          <span class="conference-name"><u> IEEE International Conference on Evolving and Adaptive Intelligent Systems (EAIS), 2015 </u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/siggraph.png" target="_blank">
+        <img class="publication-image" src="/images/siggraph.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://dl.acm.org/doi/10.1145/2668956.2668963"> On Designing Migrating Agents: From Autonomous Virtual Agents to Intelligent Robotic Systems </a></b>
+          <br>
+          <span class="author-list"><strong>Kaveh Hassani</strong>, Won-Sook Lee</span>
+          <br>
+          <span class="conference-name"><u> SIGGRAPH Asia, Autonomous Virtual Humans and Social Robot for Telepresence Workshop, 2014 </u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/siggraph.png" target="_blank">
+        <img class="publication-image" src="/images/siggraph.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://link.springer.com/chapter/10.1007/978-3-319-11313-5_35"> An Intelligent Architecture for Autonomous Virtual Agents Inspired by Onboard Autonomy </a></b>
+          <br>
+          <span class="author-list"><strong>Kaveh Hassani</strong>, Won-Sook Lee</span>
+          <br>
+          <span class="conference-name"><u> Intelligent Systems, 2014 </u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+ <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/optimal.png" target="_blank">
+        <img class="publication-image" src="/images/optimal.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://www.semanticscholar.org/paper/Optimal-Tuning-of-Linear-Quadratic-Regulators-Using-Hassani-Lee/7a78de086d2bdb71be4d9eea414b04d5137e88e6"> Optimal Tuning of Linear Quadratic Regulators using Quantum Particle Swarm Optimization </a></b>
+          <br>
+          <span class="author-list"><strong>Kaveh Hassani</strong>, Won-Sook Lee</span>
+          <br>
+          <span class="conference-name"><u> International Conference of Control, Dynamic Systems, and Robotics, 2014 </u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+ <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/pso.png" target="_blank">
+        <img class="publication-image" src="/images/pso.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://doi.org/10.1109/ICMLA.2013.87"> An Incremental Parallel Particle Swarm Approach for Classification Rule Discovery from Dynamic Data </a></b>
+          <br>
+          <span class="author-list"><strong>Kaveh Hassani</strong>, Won-Sook Lee</span>
+          <br>
+          <span class="conference-name"><u> International Conference on Machine Learning and Applications (ICMLA), 2013 </u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+ <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/interactive.png" target="_blank">
+        <img class="publication-image" src="/images/interactive.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://www.tandfonline.com/doi/full/10.1080/10494820.2013.846265"> Design and Implementation of an Intelligent Virtual Environment for Improving Speaking and Listening Skills </a></b>
+          <br>
+          <span class="author-list"><strong>Kaveh Hassani</strong>, Ali Nahvi, Ali Ahmadi</span>
+          <br>
+          <span class="conference-name"><u> Interactive Learning Environments, 2013 </u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+ <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/fuzzy.png" target="_blank">
+        <img class="publication-image" src="/images/fuzzy.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://dl.acm.org/doi/10.5555/2596266.2596295"> Architectural Design and Implementation of Intelligent Embodied Conversational Agents Using Fuzzy Knowledge Base</a></b>
+          <br>
+          <span class="author-list"><strong>Kaveh Hassani</strong>, Ali Nahvi, Ali Ahmadi</span>
+          <br>
+          <span class="conference-name"><u> Journal of Intelligent & Fuzzy Systems, 2013 </u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/loop.png" target="_blank">
+        <img class="publication-image" src="/images/loop.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://doi.org/10.1109/CIVEMSA.2013.6617391"> A Software-in-the-Loop Simulation of an Intelligent MicroSatellite within a Virtual Environment</a></b>
+          <br>
+          <span class="author-list"><strong>Kaveh Hassani</strong>, Won-Sook Lee</span>
+          <br>
+          <span class="conference-name"><u> IEEE International Conference on Computational Intelligence and Virtual Environments, 2013 </u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+  
+</table>
