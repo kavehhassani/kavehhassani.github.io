@@ -60,7 +60,7 @@ redirect_from:
   <tr>
     <td width="25%" class="image-cell">
       <a href="/images/kdd.png" target="_blank">
-        <img class="publication-image" src="/images/gqt.png" alt="Paper teaser">
+        <img class="publication-image" src="/images/kdd.png" alt="Paper teaser">
       </a>
     </td>
     <td width="75%" style="vertical-align: top;">
