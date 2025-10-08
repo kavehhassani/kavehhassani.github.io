@@ -8,8 +8,31 @@ redirect_from:
 
 <h1>About Me</h1>
 <p>
-I am currently an AI Research Scientist at <a href="https://ai.meta.com/">Meta GenAI</a>, where I focus on LLMs and Agents. I am also a Machine Learning Lecturer at the <a href="https://www.utoronto.ca/">University of Toronto</a>. Before joining Meta GenAI, I was an AI Research Scientist at Ranking AI Research at Meta working on large-scale graph and sequence learning for monetization. Prior to that, I held the position of Principal AI Research Scientist and Research Manager at the <a href="https://www.research.autodesk.com/research-areas/science/ai-lab/">Autodesk AI Lab</a>. I earned my PhD in Electrical and Computer Engineering from the <a href="https://www.uottawa.ca/">University of Ottawa</a>, with a focus on deep learning for common-sense reasoning in 3D environments. My research encompasses a broad range of deep learning areas, including Generative Learning, Multimodal Learning, Self-Supervised Learning, and Geometric Deep Learning. Currently, my research is focused on Large-Language Models (LLMs), Vision-Language Models (VLMs) and Agents. My reseach has been published in top-tier AI venues including NeurIPS, ICLR, ICML, ICCV, and AAAI. Throughout my career, I have had the pleasure of collaborating with several institutions, including NASA, Stanford University, Vector Institute, and the University of British Columbia.
+  I am currently an AI Research Scientist at <a href="https://ai.meta.com/">Meta Superintelligence Labs</a> in Menlo Park, California. My current research focus is on LLM-as-a-judge, LLM evaluation, self-improving LLMs, and multi-agent reinforcement learning for LLMs.
 </p>
+<p>
+  Before joining Meta Superintelligence Labs, I was an AI Research Scientist at Meta’s Ranking and Foundational AI Research group, working on large-scale graph and sequence learning for recommender systems.
+</p>
+<p>
+  I was also a Machine Learning Lecturer at the
+  <a href="https://www.utoronto.ca/">University of Toronto</a>
+  teaching Fundamentals of Deep Learning.
+</p>
+<p>
+  Prior to that, I held the position of Principal AI Research Scientist and Research Manager at the <a href="https://www.research.autodesk.com/research-areas/science/ai-lab/">Autodesk AI Lab</a>.
+</p>
+<p>
+  I earned my PhD in Electrical and Computer Engineering from the <a href="https://www.uottawa.ca/">University of Ottawa</a>, with a focus on deep learning for common-sense reasoning in 3D environments.
+</p>
+<p>
+  My research has been published in top-tier AI venues including NeurIPS, ICLR, ICML, ICCV, and AAAI. Throughout my career, I have had the pleasure of collaborating with several institutions, including NASA, Stanford University, Vector Institute, and the University of British Columbia.
+</p>
+
+
+
+<!-- <p>
+I am currently an AI Research Scientist at <a href="https://ai.meta.com/">Meta Superintelligence Labs</a> in Menlo Park, California. My current focus is on LLM-as-a-judge, LLM evaluation, self-improving LLMs, and multi-agent reinforcement learning for post-training LLMs. Before joining Meta Meta Superintelligence Labs, I was an AI Research Scientist at Ranking and Foundational AI Research at Meta working on large-scale graph and sequence learning for recommender systems. I was also a Machine Learning Lecturer at the <a href="https://www.utoronto.ca/">University of Toronto</a> teaching Fundementals of Deep Learning for five years. Prior to that, I held the position of Principal AI Research Scientist and Research Manager at the <a href="https://www.research.autodesk.com/research-areas/science/ai-lab/">Autodesk AI Lab</a>. I earned my PhD in Electrical and Computer Engineering from the <a href="https://www.uottawa.ca/">University of Ottawa</a>, with a focus on deep learning for common-sense reasoning in 3D environments. My research encompasses a broad range of deep learning areas, including Generative Learning, Multimodal Learning, Self-Supervised Learning, and Geometric Deep Learning. Currently, my research is focused on Large-Language Models (LLMs), Vision-Language Models (VLMs) and Agents. My reseach has been published in top-tier AI venues including NeurIPS, ICLR, ICML, ICCV, and AAAI. Throughout my career, I have had the pleasure of collaborating with several institutions, including NASA, Stanford University, Vector Institute, and the University of British Columbia.
+</p> -->
 
 
 <style>
