@@ -59,6 +59,27 @@ redirect_from:
 
   <tr>
     <td width="25%" class="image-cell">
+      <a href="/images/maca.png" target="_blank">
+        <img class="publication-image" src="/images/maca.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://arxiv.org/abs/2509.15172">Internalizing Self-Consistency in Language Models: Multi-Agent Consensus Alignment </a></b>
+          <br>
+          <span class="author-list">
+            Ankur Samanta, Akshayaa Magesh, Youliang Yu, Runzhe Wu, Ayush Jain, Daniel Jiang, Boris Vidolov, Paul Sajda, Yonathan Efroni, <strong>Kaveh Hassani</strong></span>
+          <br>
+          <span class="conference-name"><u>Arxiv, 2025</u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+
+  <tr>
+    <td width="25%" class="image-cell">
       <a href="/images/kdd.png" target="_blank">
         <img class="publication-image" src="/images/kdd.png" alt="Paper teaser">
       </a>
