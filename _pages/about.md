@@ -12,6 +12,11 @@ redirect_from:
 <a href="https://www.utoronto.ca/">University of Toronto</a> teaching Fundamentals of Deep Learning. Prior to that, I held the position of Principal AI Research Scientist and Research Manager at the <a href="https://www.research.autodesk.com/research-areas/science/ai-lab/">Autodesk AI Lab</a>. I earned my PhD from the <a href="https://www.uottawa.ca/">University of Ottawa</a>, with a focus on deep learning for common-sense reasoning in virtual environments. My research has been published in top-tier AI venues including NeurIPS, ICLR, ICML, and TMLR.
 </p>
 
+<h1>Research Interests</h1>
+<p>
+  LLM Self-Improvement &middot; LLM Reasoning &middot; Multi-Agent Reinforcement Learning &middot; Post-Training &middot; LLM Evaluation &middot; Graph Neural Networks &middot; Contrastive Learning &middot; Generative Retrieval for Recommendation
+</p>
+
 <style>
   .publication-table,
   .publication-table tr,
