@@ -523,7 +523,7 @@ redirect_from:
 
 </table>
 
-<h2>Miscellaneous</h2>
+<h2>Autonomous Agents & Virtual Environments</h2>
 <table class="publication-table">
 
   <tr>
