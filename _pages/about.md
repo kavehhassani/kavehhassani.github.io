@@ -79,7 +79,7 @@ redirect_from:
           <br>
           <span class="author-list">Ankur Samanta, Akshayaa Magesh, Ayush Jain, Youliang Yu, Daniel Jiang, Kavosh Asadi, <strong>Kaveh Hassani</strong>, Paul Sajda, Jalaj Bhandari, Yonathan Efroni</span>
           <br>
-          <span class="conference-name"><u>International Conference on Machine Learning (ICML), 2026</u></span>
+          <span class="conference-name"><u>Arxiv Preprint, 2026</u></span>
         </p>
       </div>
     </td>
@@ -136,7 +136,7 @@ redirect_from:
           <br>
           <span class="author-list">Ankur Samanta, Akshayaa Magesh, Ayush Jain, Kavosh Asadi, Youliang Yu, Daniel Jiang, Boris Vidolov, <strong>Kaveh Hassani</strong>, Paul Sajda, Jalaj Bhandari, Yonathan Efroni</span>
           <br>
-          <span class="conference-name"><u>Arxiv Preprint, 2026</u></span>
+          <span class="conference-name"><u>International Conference on Machine Learning (ICML), 2026</u></span>
         </p>
       </div>
     </td>
