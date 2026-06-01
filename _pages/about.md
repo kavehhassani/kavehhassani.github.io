@@ -534,7 +534,7 @@ redirect_from:
 
 </table>
 
-<h2>Evolutionary Computation</h2>
+<h2>Bio-Inspired Optimization</h2>
 <table class="publication-table">
 
   <tr>
