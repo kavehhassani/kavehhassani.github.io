@@ -8,14 +8,20 @@ redirect_from:
 
 <h1>About Me</h1>
 <p>
-  I am currently an AI Research Scientist at <a href="https://ai.meta.com/">Meta Superintelligence Labs</a>. My current research focus is on LLM-as-a-judge, LLM evaluation, self-improving LLMs, and multi-agent reinforcement learning for LLMs. Before joining Meta Superintelligence Labs, I was an AI Research Scientist at Meta’s Ranking and Foundational AI Research group, working on large-scale graph and sequence learning for recommender systems. I was also a Machine Learning Lecturer at the
+  I am currently an AI Research Scientist at <a href="https://ai.meta.com/">Meta Superintelligence Labs</a>. My current research focus is on LLM-as-a-judge, LLM evaluation, self-improving LLMs, and multi-agent reinforcement learning for LLMs. Before joining Meta Superintelligence Labs, I was an AI Research Scientist at Meta's Ranking and Foundational AI Research group, working on large-scale graph and sequence learning for recommender systems. I was also a Machine Learning Lecturer at the
 <a href="https://www.utoronto.ca/">University of Toronto</a> teaching Fundamentals of Deep Learning. Prior to that, I held the position of Principal AI Research Scientist and Research Manager at the <a href="https://www.research.autodesk.com/research-areas/science/ai-lab/">Autodesk AI Lab</a>. I earned my PhD in Electrical and Computer Engineering from the <a href="https://www.uottawa.ca/">University of Ottawa</a>, with a focus on deep learning for common-sense reasoning in 3D environments. My research has been published in top-tier AI venues including NeurIPS, ICLR, ICML, ICCV, and AAAI. Throughout my career, I have had the pleasure of collaborating with several institutions, including NASA, Stanford University, Vector Institute, and the University of British Columbia.
 </p>
 
 <style>
+  .publication-table,
+  .publication-table tr,
+  .publication-table td {
+    border: none !important;
+    border-collapse: collapse;
+  }
+
   .publication-table {
     width: 100%;
-    border-collapse: collapse;
   }
   
   .image-cell {
@@ -54,7 +60,10 @@ redirect_from:
     font-size: 16px !important;
   }
 </style>
+
 <h1>Publications</h1>
+
+<h2>Large Language Models</h2>
 <table class="publication-table">
 
   <tr>
@@ -77,6 +86,29 @@ redirect_from:
     </td>
   </tr>
 
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/auglm.png" target="_blank">
+        <img class="publication-image" src="/images/auglm.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://Arxiv.org/abs/2410.02296">How to Make LLMs Strong Node Classifiers?</a></b>
+          <br>
+          <span class="author-list">Zhe Xu, <strong>Kaveh Hassani</strong>, Si Zhang, Hanqing Zeng, Michihiro Yasunaga, Limei Wang, Dongqi Fu, Ning Yao, Bo Long, Hanghang Tong</span>
+          <br>
+          <span class="conference-name"><u>Arxiv Preprint, 2024</u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+</table>
+
+<h2>Recommender Systems</h2>
+<table class="publication-table">
 
   <tr>
     <td width="25%" class="image-cell">
@@ -94,26 +126,6 @@ redirect_from:
             Yupeng Hou, Jiacheng Li, Ashley Shin, Jinsung Jeon, Abhishek Santhanam, Wei Shao, <strong>Kaveh Hassani</strong>, Ning Yao, Julian McAuley </span>
           <br>
           <span class="conference-name"><u>ACM Conference on Knowledge Discovery and Data Mining (KDD), 2025</u></span>
-        </p>
-      </div>
-    </td>
-  </tr>
-
-  
-  <tr>
-    <td width="25%" class="image-cell">
-      <a href="/images/gqt.png" target="_blank">
-        <img class="publication-image" src="/images/gqt.png" alt="Paper teaser">
-      </a>
-    </td>
-    <td width="75%" style="vertical-align: top;">
-      <div class="publication-content">
-        <p>
-          <b><a class="paper-title" target="_blank" href="https://Arxiv.org/abs/2410.13798">Learning Graph Quantized Tokenizers</a></b>
-          <br>
-          <span class="author-list">Limei Wang, <strong>Kaveh Hassani</strong>, Si Zhang, Dongqi Fu, Baichuan Yuan, Weilin Cong, Zhigang Hua, Hao Wu, Ning Yao, Bo Long</span>
-          <br>
-          <span class="conference-name"><u>International Conference on Learning Representations (ICLR), 2025</u></span>
         </p>
       </div>
     </td>
@@ -159,25 +171,6 @@ redirect_from:
 
   <tr>
     <td width="25%" class="image-cell">
-      <a href="/images/auglm.png" target="_blank">
-        <img class="publication-image" src="/images/auglm.png" alt="Paper teaser">
-      </a>
-    </td>
-    <td width="75%" style="vertical-align: top;">
-      <div class="publication-content">
-        <p>
-          <b><a class="paper-title" target="_blank" href="https://Arxiv.org/abs/2410.02296">How to Make LLMs Strong Node Classifiers?</a></b>
-          <br>
-          <span class="author-list">Zhe Xu, <strong>Kaveh Hassani</strong>, Si Zhang, Hanqing Zeng, Michihiro Yasunaga, Limei Wang, Dongqi Fu, Ning Yao, Bo Long, Hanghang Tong</span>
-          <br>
-          <span class="conference-name"><u>Arxiv Preprint, 2024</u></span>
-        </p>
-      </div>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="25%" class="image-cell">
       <a href="/images/rankit.png" target="_blank">
         <img class="publication-image" src="/images/rankit.png" alt="Paper teaser">
       </a>
@@ -190,6 +183,30 @@ redirect_from:
           <span class="author-list">Wei Wen, Kuang-Hung Liu, Igor Fedorov, Xin Zhang, Hang Yin, Weiwei Chu, <strong>Kaveh Hassani</strong>, Mengying Sun, Jiang Liu, Xu Wang, Lin Jiang, Yuxin Chen, Buyun Zhang, Xi Liu, Dehua Cheng, Zhengxing Chen, Guang Zhao, Fangqiu Han, Jiyan Yang, Yuchen Hao, Liang Xiong, Wen-Yen Chen</span>
           <br>
           <span class="conference-name"><u>Proceedings of the ACM Web Conference (WWW), 2024</u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+</table>
+
+<h2>Geometric Deep Learning</h2>
+<table class="publication-table">
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/gqt.png" target="_blank">
+        <img class="publication-image" src="/images/gqt.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://Arxiv.org/abs/2410.13798">Learning Graph Quantized Tokenizers</a></b>
+          <br>
+          <span class="author-list">Limei Wang, <strong>Kaveh Hassani</strong>, Si Zhang, Dongqi Fu, Baichuan Yuan, Weilin Cong, Zhigang Hua, Hao Wu, Ning Yao, Bo Long</span>
+          <br>
+          <span class="conference-name"><u>International Conference on Learning Representations (ICLR), 2025</u></span>
         </p>
       </div>
     </td>
@@ -232,7 +249,6 @@ redirect_from:
       </div>
     </td>
   </tr>
-
 
   <tr>
     <td width="25%" class="image-cell">
@@ -405,6 +421,111 @@ redirect_from:
     </td>
   </tr>
 
+</table>
+
+<h2>Evolutionary Computation</h2>
+<table class="publication-table">
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/bio.png" target="_blank">
+        <img class="publication-image" src="/images/bio.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://www.sciencedirect.com/science/article/pii/S0957417416301087"> Simulating Collective Intelligence of Bio-Inspired Competing Agents </a></b>
+          <br>
+          <span class="author-list">Aliakbar Asgari, <strong>Kaveh Hassani</strong>, Won-Sook Lee</span>
+          <br>
+          <span class="conference-name"><u> Expert Systems with Applications, 2016 </u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/multiobj.png" target="_blank">
+        <img class="publication-image" src="/images/multiobj.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://www.sciencedirect.com/science/article/pii/S1568494615008030"> Multi-Objective Design of State Feedback Controllers Using Reinforced Particle Swarm Optimization </a></b>
+          <br>
+          <span class="author-list"><strong>Kaveh Hassani</strong>, Won-Sook Lee</span>
+          <br>
+          <span class="conference-name"><u> Applied Soft Computing, 2016 </u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/competing.png" target="_blank">
+        <img class="publication-image" src="/images/competing.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://ieeexplore.ieee.org/document/7368805"> A Case Study on Collective Intelligence Based on Energy Flow </a></b>
+          <br>
+          <span class="author-list"><strong>Kaveh Hassani</strong>, Aliakbar Asgari, Won-Sook Lee</span>
+          <br>
+          <span class="conference-name"><u> IEEE International Conference on Evolving and Adaptive Intelligent Systems (EAIS), 2015 </u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/optimal.png" target="_blank">
+        <img class="publication-image" src="/images/optimal.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://www.semanticscholar.org/paper/Optimal-Tuning-of-Linear-Quadratic-Regulators-Using-Hassani-Lee/7a78de086d2bdb71be4d9eea414b04d5137e88e6"> Optimal Tuning of Linear Quadratic Regulators using Quantum Particle Swarm Optimization </a></b>
+          <br>
+          <span class="author-list"><strong>Kaveh Hassani</strong>, Won-Sook Lee</span>
+          <br>
+          <span class="conference-name"><u> International Conference of Control, Dynamic Systems, and Robotics, 2014 </u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/pso.png" target="_blank">
+        <img class="publication-image" src="/images/pso.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://doi.org/10.1109/ICMLA.2013.87"> An Incremental Parallel Particle Swarm Approach for Classification Rule Discovery from Dynamic Data </a></b>
+          <br>
+          <span class="author-list"><strong>Kaveh Hassani</strong>, Won-Sook Lee</span>
+          <br>
+          <span class="conference-name"><u> International Conference on Machine Learning and Applications (ICMLA), 2013 </u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+</table>
+
+<h2>Miscellaneous</h2>
+<table class="publication-table">
+
   <tr>
     <td width="25%" class="image-cell">
       <a href="/images/spatial.png" target="_blank">
@@ -483,44 +604,6 @@ redirect_from:
 
   <tr>
     <td width="25%" class="image-cell">
-      <a href="/images/bio.png" target="_blank">
-        <img class="publication-image" src="/images/bio.png" alt="Paper teaser">
-      </a>
-    </td>
-    <td width="75%" style="vertical-align: top;">
-      <div class="publication-content">
-        <p>
-          <b><a class="paper-title" target="_blank" href="https://www.sciencedirect.com/science/article/pii/S0957417416301087"> Simulating Collective Intelligence of Bio-Inspired Competing Agents </a></b>
-          <br>
-          <span class="author-list">Aliakbar Asgari, <strong>Kaveh Hassani</strong>, Won-Sook Lee</span>
-          <br>
-          <span class="conference-name"><u> Expert Systems with Applications, 2016 </u></span>
-        </p>
-      </div>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="25%" class="image-cell">
-      <a href="/images/multiobj.png" target="_blank">
-        <img class="publication-image" src="/images/multiobj.png" alt="Paper teaser">
-      </a>
-    </td>
-    <td width="75%" style="vertical-align: top;">
-      <div class="publication-content">
-        <p>
-          <b><a class="paper-title" target="_blank" href="https://www.sciencedirect.com/science/article/pii/S1568494615008030"> Multi-Objective Design of State Feedback Controllers Using Reinforced Particle Swarm Optimization </a></b>
-          <br>
-          <span class="author-list"><strong>Kaveh Hassani</strong>, Won-Sook Lee</span>
-          <br>
-          <span class="conference-name"><u> Applied Soft Computing, 2016 </u></span>
-        </p>
-      </div>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="25%" class="image-cell">
       <a href="/images/migrating.png" target="_blank">
         <img class="publication-image" src="/images/migrating.png" alt="Paper teaser">
       </a>
@@ -550,25 +633,6 @@ redirect_from:
           <b><a class="paper-title" target="_blank" href="https://ieeexplore.ieee.org/document/7368804"> Adaptive Animation Generation Using Web Content Mining </a></b>
           <br>
           <span class="author-list"><strong>Kaveh Hassani</strong>, Won-Sook Lee</span>
-          <br>
-          <span class="conference-name"><u> IEEE International Conference on Evolving and Adaptive Intelligent Systems (EAIS), 2015 </u></span>
-        </p>
-      </div>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="25%" class="image-cell">
-      <a href="/images/competing.png" target="_blank">
-        <img class="publication-image" src="/images/competing.png" alt="Paper teaser">
-      </a>
-    </td>
-    <td width="75%" style="vertical-align: top;">
-      <div class="publication-content">
-        <p>
-          <b><a class="paper-title" target="_blank" href="https://ieeexplore.ieee.org/document/7368805"> A Case Study on Collective Intelligence Based on Energy Flow </a></b>
-          <br>
-          <span class="author-list"><strong>Kaveh Hassani</strong>, Aliakbar Asgari, Won-Sook Lee</span>
           <br>
           <span class="conference-name"><u> IEEE International Conference on Evolving and Adaptive Intelligent Systems (EAIS), 2015 </u></span>
         </p>
@@ -614,45 +678,7 @@ redirect_from:
     </td>
   </tr>
 
- <tr>
-    <td width="25%" class="image-cell">
-      <a href="/images/optimal.png" target="_blank">
-        <img class="publication-image" src="/images/optimal.png" alt="Paper teaser">
-      </a>
-    </td>
-    <td width="75%" style="vertical-align: top;">
-      <div class="publication-content">
-        <p>
-          <b><a class="paper-title" target="_blank" href="https://www.semanticscholar.org/paper/Optimal-Tuning-of-Linear-Quadratic-Regulators-Using-Hassani-Lee/7a78de086d2bdb71be4d9eea414b04d5137e88e6"> Optimal Tuning of Linear Quadratic Regulators using Quantum Particle Swarm Optimization </a></b>
-          <br>
-          <span class="author-list"><strong>Kaveh Hassani</strong>, Won-Sook Lee</span>
-          <br>
-          <span class="conference-name"><u> International Conference of Control, Dynamic Systems, and Robotics, 2014 </u></span>
-        </p>
-      </div>
-    </td>
-  </tr>
-
- <tr>
-    <td width="25%" class="image-cell">
-      <a href="/images/pso.png" target="_blank">
-        <img class="publication-image" src="/images/pso.png" alt="Paper teaser">
-      </a>
-    </td>
-    <td width="75%" style="vertical-align: top;">
-      <div class="publication-content">
-        <p>
-          <b><a class="paper-title" target="_blank" href="https://doi.org/10.1109/ICMLA.2013.87"> An Incremental Parallel Particle Swarm Approach for Classification Rule Discovery from Dynamic Data </a></b>
-          <br>
-          <span class="author-list"><strong>Kaveh Hassani</strong>, Won-Sook Lee</span>
-          <br>
-          <span class="conference-name"><u> International Conference on Machine Learning and Applications (ICMLA), 2013 </u></span>
-        </p>
-      </div>
-    </td>
-  </tr>
-
- <tr>
+  <tr>
     <td width="25%" class="image-cell">
       <a href="/images/interactive.png" target="_blank">
         <img class="publication-image" src="/images/interactive.png" alt="Paper teaser">
@@ -671,7 +697,7 @@ redirect_from:
     </td>
   </tr>
 
- <tr>
+  <tr>
     <td width="25%" class="image-cell">
       <a href="/images/fuzzy.png" target="_blank">
         <img class="publication-image" src="/images/fuzzy.png" alt="Paper teaser">
@@ -708,5 +734,5 @@ redirect_from:
       </div>
     </td>
   </tr>
-  
+
 </table>
