@@ -68,19 +68,37 @@ redirect_from:
 
   <tr>
     <td width="25%" class="image-cell">
-      <a href="/images/maca.png" target="_blank">
-        <img class="publication-image" src="/images/maca.png" alt="Paper teaser">
+      <a href="/images/credit_assignment.png" target="_blank">
+        <img class="publication-image" src="/images/credit_assignment.png" alt="Paper teaser">
       </a>
     </td>
     <td width="75%" style="vertical-align: top;">
       <div class="publication-content">
         <p>
-          <b><a class="paper-title" target="_blank" href="https://arxiv.org/abs/2509.15172">Internalizing Self-Consistency in Language Models: Multi-Agent Consensus Alignment </a></b>
+          <b><a class="paper-title" target="_blank" href="https://arxiv.org/abs/2605.25507">Credit Assignment with Resets in Language Model Reasoning</a></b>
           <br>
-          <span class="author-list">
-            Ankur Samanta, Akshayaa Magesh, Youliang Yu, Runzhe Wu, Ayush Jain, Daniel Jiang, Boris Vidolov, Paul Sajda, Yonathan Efroni, <strong>Kaveh Hassani</strong></span>
+          <span class="author-list">Ankur Samanta, Akshayaa Magesh, Ayush Jain, Youliang Yu, Daniel Jiang, K. Asadi, <strong>Kaveh Hassani</strong>, Paul Sajda</span>
           <br>
-          <span class="conference-name"><u>Arxiv, 2025</u></span>
+          <span class="conference-name"><u>Arxiv Preprint, 2026</u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/imbalanced_gradients.png" target="_blank">
+        <img class="publication-image" src="/images/imbalanced_gradients.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://aclanthology.org/2026.findings-eacl.213/">Imbalanced Gradients in RL Post-Training of Multi-Task LLMs</a></b>
+          <br>
+          <span class="author-list">Runzhe Wu, Ankur Samanta, Ayush Jain, S. Fujimoto, J. Kwon, B. Kretzu, Youliang Yu, <strong>Kaveh Hassani</strong></span>
+          <br>
+          <span class="conference-name"><u>Findings of the Association for Computational Linguistics: EACL, 2026</u></span>
         </p>
       </div>
     </td>
@@ -99,7 +117,45 @@ redirect_from:
           <br>
           <span class="author-list">Zhe Xu, <strong>Kaveh Hassani</strong>, Si Zhang, Hanqing Zeng, Michihiro Yasunaga, Limei Wang, Dongqi Fu, Ning Yao, Bo Long, Hanghang Tong</span>
           <br>
-          <span class="conference-name"><u>Arxiv Preprint, 2024</u></span>
+          <span class="conference-name"><u>Findings of the Association for Computational Linguistics: EACL, 2026</u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/self_localization.png" target="_blank">
+        <img class="publication-image" src="/images/self_localization.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://arxiv.org/abs/2602.02416">Structure Enables Effective Self-Localization of Errors in LLMs</a></b>
+          <br>
+          <span class="author-list">Ankur Samanta, Akshayaa Magesh, Ayush Jain, K. Asadi, Youliang Yu, Daniel Jiang, Boris Vidolov, <strong>Kaveh Hassani</strong></span>
+          <br>
+          <span class="conference-name"><u>Arxiv Preprint, 2026</u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/maca.png" target="_blank">
+        <img class="publication-image" src="/images/maca.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://arxiv.org/abs/2509.15172">Self-Improvement of Language Models by Post-Training on Multi-Agent Debate</a></b>
+          <br>
+          <span class="author-list">Ankur Samanta, Akshayaa Magesh, Runzhe Wu, Ayush Jain, Youliang Yu, Daniel Jiang, Boris Vidolov, Paul Sajda, Yonathan Efroni, <strong>Kaveh Hassani</strong></span>
+          <br>
+          <span class="conference-name"><u>Arxiv Preprint, 2025</u></span>
         </p>
       </div>
     </td>
@@ -112,6 +168,25 @@ redirect_from:
 
   <tr>
     <td width="25%" class="image-cell">
+      <a href="/images/multimodal_genrec.png" target="_blank">
+        <img class="publication-image" src="/images/multimodal_genrec.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://arxiv.org/abs/2602.03713">Multimodal Generative Recommendation for Fusing Semantic and Collaborative Signals</a></b>
+          <br>
+          <span class="author-list">M. Vandenhirtz, <strong>Kaveh Hassani</strong>, S. Ghasemlou, S. Shao, Hamid Eghbalzadeh</span>
+          <br>
+          <span class="conference-name"><u>Arxiv Preprint, 2026</u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
       <a href="/images/kdd.png" target="_blank">
         <img class="publication-image" src="/images/kdd.png" alt="Paper teaser">
       </a>
@@ -119,13 +194,30 @@ redirect_from:
     <td width="75%" style="vertical-align: top;">
       <div class="publication-content">
         <p>
-          <b><a class="paper-title" target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3711896.3736979">Generating Long Semantic IDs in Parallel for Recommendation
-</a></b>
+          <b><a class="paper-title" target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3711896.3736979">Generating Long Semantic IDs in Parallel for Recommendation</a></b>
           <br>
-          <span class="author-list">
-            Yupeng Hou, Jiacheng Li, Ashley Shin, Jinsung Jeon, Abhishek Santhanam, Wei Shao, <strong>Kaveh Hassani</strong>, Ning Yao, Julian McAuley </span>
+          <span class="author-list">Yupeng Hou, Jiacheng Li, Ashley Shin, Jinsung Jeon, Abhishek Santhanam, Wei Shao, <strong>Kaveh Hassani</strong>, Ning Yao, Julian McAuley</span>
           <br>
           <span class="conference-name"><u>ACM Conference on Knowledge Discovery and Data Mining (KDD), 2025</u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/billion_scale.png" target="_blank">
+        <img class="publication-image" src="/images/billion_scale.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://dl.acm.org/doi/10.1145/3627673.3680098">Billion-Scale Graph Deep Learning Framework for Ads Recommendation</a></b>
+          <br>
+          <span class="author-list">Si Zhang, Weilin Cong, Dongqi Fu, Andrey Malevich, Hao Wu, Baichuan Yuan, X. Zhou, <strong>Kaveh Hassani</strong></span>
+          <br>
+          <span class="conference-name"><u>ACM International Conference on Information and Knowledge Management (CIKM), 2025</u></span>
         </p>
       </div>
     </td>
@@ -195,6 +287,25 @@ redirect_from:
 
   <tr>
     <td width="25%" class="image-cell">
+      <a href="/images/higher_order.png" target="_blank">
+        <img class="publication-image" src="/images/higher_order.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://arxiv.org/abs/2505.15746">Higher-Order Structure Boosts Link Prediction on Temporal Graphs</a></b>
+          <br>
+          <span class="author-list">J. Liu, Zhigang Hua, Y. Xie, B. Li, H. Shomer, Y. Song, <strong>Kaveh Hassani</strong>, J. Tang</span>
+          <br>
+          <span class="conference-name"><u>Arxiv Preprint, 2025</u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
       <a href="/images/gqt.png" target="_blank">
         <img class="publication-image" src="/images/gqt.png" alt="Paper teaser">
       </a>
@@ -221,11 +332,11 @@ redirect_from:
     <td width="75%" style="vertical-align: top;">
       <div class="publication-content">
         <p>
-          <b><a class="paper-title" target="_blank" href="https://openreview.net/forum?id=H7z1gHsaZ0">Staleness-Based Subgraph Sampling for Large-Scale GNNs Training</a></b>
+          <b><a class="paper-title" target="_blank" href="https://openreview.net/forum?id=H7z1gHsaZ0">Staleness-Based Subgraph Sampling for Training GNNs on Large-Scale Graphs</a></b>
           <br>
           <span class="author-list">Limei Wang, Si Zhang, Hanqing Zeng, Hao Wu, Zhigang Hua, <strong>Kaveh Hassani</strong>, Andrey Malevich, Bo Long, Shuiwang Ji</span>
           <br>
-          <span class="conference-name"><u>Arxiv Preprint, 2024</u></span>
+          <span class="conference-name"><u>IEEE International Conference on Big Data (BigData), 2025</u></span>
         </p>
       </div>
     </td>
@@ -478,6 +589,25 @@ redirect_from:
           <span class="author-list"><strong>Kaveh Hassani</strong>, Aliakbar Asgari, Won-Sook Lee</span>
           <br>
           <span class="conference-name"><u> IEEE International Conference on Evolving and Adaptive Intelligent Systems (EAIS), 2015 </u></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" class="image-cell">
+      <a href="/images/eeg_classification.png" target="_blank">
+        <img class="publication-image" src="/images/eeg_classification.png" alt="Paper teaser">
+      </a>
+    </td>
+    <td width="75%" style="vertical-align: top;">
+      <div class="publication-content">
+        <p>
+          <b><a class="paper-title" target="_blank" href="https://ieeexplore.ieee.org/document/6861697"> An Incremental Framework for Classification of EEG Signals Using Quantum Particle Swarm Optimization </a></b>
+          <br>
+          <span class="author-list"><strong>Kaveh Hassani</strong>, Won-Sook Lee</span>
+          <br>
+          <span class="conference-name"><u> IEEE International Conference on Computational Intelligence and Virtual Environments, 2014 </u></span>
         </p>
       </div>
     </td>
