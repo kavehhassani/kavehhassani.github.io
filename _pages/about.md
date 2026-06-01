@@ -63,7 +63,7 @@ redirect_from:
 
 <h1>Publications</h1>
 
-<h2>Large Language Models</h2>
+<h2>LLM Reasoning & Alignment</h2>
 <table class="publication-table">
 
   <tr>
@@ -282,7 +282,7 @@ redirect_from:
 
 </table>
 
-<h2>Geometric Deep Learning</h2>
+<h2>Graph & Geometric Representation Learning</h2>
 <table class="publication-table">
 
   <tr>
