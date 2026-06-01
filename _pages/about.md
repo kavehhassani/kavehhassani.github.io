@@ -14,7 +14,7 @@ redirect_from:
 
 <h1>Research Interests</h1>
 <p>
-  LLM Self-Improvement &middot; LLM Reasoning &middot; Multi-Agent Reinforcement Learning &middot; Post-Training &middot; Generative Retrieval
+  Self-Improving LLMs &middot; LLM Reasoning &middot; Multi-Agent RL &middot; Post-Training &middot; Generative Retrieval
 </p>
 
 <style>
