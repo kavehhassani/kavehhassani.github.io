@@ -1,0 +1,22 @@
+---
+layout: archive
+title: "Blog"
+description: "Blog posts by Kaveh Hassani on reinforcement learning, LLMs, deep learning, and AI research."
+permalink: /blog/
+author_profile: true
+---
+
+<style>.page__title { display: none; }</style>
+
+{% if site.posts.size > 0 %}
+  {% for post in site.posts %}
+    <article>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
+      <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
+    </article>
+    <hr>
+  {% endfor %}
+{% else %}
+  <p>Coming soon.</p>
+{% endif %}
