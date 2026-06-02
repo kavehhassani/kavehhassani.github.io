@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<style>.page__title { display: none; }</style>
+
 <h1>About Me</h1>
 <p>
   I am an AI Research Scientist at <a href="https://ai.meta.com/">Meta Superintelligence Labs</a> where I work on post-training and evaluating LLMs for continual improvement based on large-scale online user interactions. My current research focus is on self-improving LLMs and multi-agent reinforcement learning for LLMs. Before joining Meta Superintelligence Labs, I was an AI Research Scientist at Meta's Ranking and Foundational AI Research group, working on large-scale generative learning for recommender systems. I was also a Machine Learning Lecturer at the
