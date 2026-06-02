@@ -1,5 +1,7 @@
 ---
 permalink: /
+title: "Kaveh Hassani — AI Research Scientist"
+description: "Kaveh Hassani is an AI Research Scientist at Meta Superintelligence Labs working on self-improving LLMs, LLM reasoning, multi-agent reinforcement learning, and post-training."
 author_profile: true
 redirect_from: 
   - /about/
